@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanlajpal&label=Profile%20views&color=0e75b6&style=flat" alt="amanlajpal" /> </p>
 
-- 🌱 I’m currently learning **AWS, Artificial Intelligence, Machine Learning, etc**
+- 🌱 I’m currently learning **NextJS, DSA, etc**
 
-- 💬 Ask me about **Javascript, HTML & CSS, Python, etc**
+- 💬 Ask me about **Javascript, HTML & CSS, ReactJs, NodeJs, NextJs, DSA etc**
 
 - 📫 How to reach me **lajpalaman1314+github@gmail.com**
 
